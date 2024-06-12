@@ -24,7 +24,7 @@ As developers, we often switch between programming languages, each with its uniq
 
 ### pathlib
 
-[pathlib](https://github.com/pythonicr/pathlib) emulates Python's `pathlib` module, providing an object-oriented approach to handling and manipulating filesystem paths.
+[pathlib](https://github.com/pythonicr/pathlib) emulates Python's `pathlib` module, providing a familiar set of functions for handling and manipulating filesystem paths.
 
 ## Installation
 
